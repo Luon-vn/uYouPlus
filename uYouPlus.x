@@ -1,15 +1,22 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-//Mni
-%hook YTIMiniplayerRenderer
-- (BOOL)hasMinimizedEndpoint {
-return NO;
+
+//YTClassicVideoQuality
+
+@interface YTVideoQualitySwitchOriginalController : NSObject
+- (instancetype)initWithParentResponder:(id)responder;
+@end
+
+%hook YTVideoQualitySwitchControllerFactory
+
+- (id)videoQualitySwitchControllerWithParentResponder:(id)responder {
+    Class originalClass = %c(YTVideoQualitySwitchOriginalController);
+    return originalClass ? [[originalClass alloc] initWithParentResponder:responder] : %orig;
 }
-- (int)playbackMode {
-return 2;
-}
+
 %end
+
 
 //NoLocalCheck
 %hook YTHotConfig
@@ -27,12 +34,20 @@ return 2;
 }
 %end
 
-// Alert
+
+//YTSystemTheme
+%hook YTColdConfig
+- (BOOL)shouldUseAppThemeSetting {
+    return YES;
+}
+%end
+
+
+//NOYTPremium
 %hook YTCommerceEventGroupHandler
 - (void)addEventHandlers {}
 %end
 
-// Full-screen
 %hook YTInterstitialPromoEventGroupHandler
 - (void)addEventHandlers {}
 %end
@@ -41,7 +56,6 @@ return 2;
 - (BOOL)shouldThrottleInterstitial { return YES; }
 %end
 
-// YT-PRE--Whatever these are for
 %hook YTPromoThrottleController
 - (BOOL)canShowThrottledPromo { return NO; }
 - (BOOL)canShowThrottledPromoWithFrequencyCap:(id)frequencyCap { return NO; }
@@ -51,20 +65,6 @@ return 2;
 - (void)showSurveyWithRenderer:(id)arg1 surveyParentResponder:(id)arg2 {}
 %end
 
-//YTClassicVideoQuality
-
-@interface YTVideoQualitySwitchOriginalController : NSObject
-- (instancetype)initWithParentResponder:(id)responder;
-@end
-
-%hook YTVideoQualitySwitchControllerFactory
-
-- (id)videoQualitySwitchControllerWithParentResponder:(id)responder {
-    Class originalClass = %c(YTVideoQualitySwitchOriginalController);
-    return originalClass ? [[originalClass alloc] initWithParentResponder:responder] : %orig;
-}
-
-%end
 
 //YTNoHoverCards 0.0.3
 @interface YTCollectionViewCell : UICollectionViewCell
@@ -109,12 +109,5 @@ return 2;
 	if (![[NSUserDefaults standardUserDefaults] boolForKey:@"hover_cards_enabled"])
 		hidden = YES;
 	%orig;
-}
-%end
-
-//YTSystemTheme
-%hook YTColdConfig
-- (BOOL)shouldUseAppThemeSetting {
-    return YES;
 }
 %end

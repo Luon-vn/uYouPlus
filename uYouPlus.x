@@ -2,7 +2,17 @@
 #import <UIKit/UIKit.h>
 
 
-//YTClassicVideoQuality
+// YouRememberCaption
+//Source code: https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/
+%hook YTColdConfig
+- (BOOL)respectDeviceCaptionSetting {
+    return NO;
+}
+%end
+
+
+// YTClassicVideoQuality
+// Source code: https://github.com/PoomSmart/YTClassicVideoQuality
 
 @interface YTVideoQualitySwitchOriginalController : NSObject
 - (instancetype)initWithParentResponder:(id)responder;
@@ -17,7 +27,9 @@
 %end
 
 
-//YTNoCheckLocalNetwork
+// YTNoCheckLocalNetwork
+// Source code: https://poomsmart.github.io/repo/depictions/ytnochecklocalnetwork.html
+
 %hook YTHotConfig
 
 - (BOOL)isPromptForLocalNetworkPermissionsEnabled {
@@ -25,23 +37,9 @@
 }
 %end
 
-//YouRememberCaption
-%hook YTColdConfig
-- (BOOL)respectDeviceCaptionSetting {
-    return NO;
-}
-%end
+// YTNoHoverCards
+// Source code: https://github.com/level3tjg/YTNoHoverCards
 
-
-//YTSystemAppearance
-%hook YTColdConfig
-- (BOOL)shouldUseAppThemeSetting {
-    return YES;
-}
-%end
-
-
-//YTNoHoverCards
 @interface YTCollectionViewCell : UICollectionViewCell
 @end
 
@@ -84,5 +82,15 @@
 	if (![[NSUserDefaults standardUserDefaults] boolForKey:@"hover_cards_enabled"])
 		hidden = YES;
 	%orig;
+}
+%end
+
+
+// YTSystemAppearance
+// Source code: https://poomsmart.github.io/repo/depictions/ytsystemappearance.html
+
+%hook YTColdConfig
+- (BOOL)shouldUseAppThemeSetting {
+    return YES;
 }
 %end

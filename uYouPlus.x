@@ -14,17 +14,15 @@
     Class originalClass = %c(YTVideoQualitySwitchOriginalController);
     return originalClass ? [[originalClass alloc] initWithParentResponder:responder] : %orig;
 }
-
 %end
 
 
-//NoLocalCheck
+//YTNoCheckLocalNetwork
 %hook YTHotConfig
 
 - (BOOL)isPromptForLocalNetworkPermissionsEnabled {
     return NO;
 }
-
 %end
 
 //YouRememberCaption
@@ -35,7 +33,7 @@
 %end
 
 
-//YTSystemTheme
+//YTSystemAppearance
 %hook YTColdConfig
 - (BOOL)shouldUseAppThemeSetting {
     return YES;
@@ -43,30 +41,7 @@
 %end
 
 
-//NOYTPremium
-%hook YTCommerceEventGroupHandler
-- (void)addEventHandlers {}
-%end
-
-%hook YTInterstitialPromoEventGroupHandler
-- (void)addEventHandlers {}
-%end
-
-%hook YTIShowFullscreenInterstitialCommand
-- (BOOL)shouldThrottleInterstitial { return YES; }
-%end
-
-%hook YTPromoThrottleController
-- (BOOL)canShowThrottledPromo { return NO; }
-- (BOOL)canShowThrottledPromoWithFrequencyCap:(id)frequencyCap { return NO; }
-%end
-
-%hook YTSurveyController
-- (void)showSurveyWithRenderer:(id)arg1 surveyParentResponder:(id)arg2 {}
-%end
-
-
-//YTNoHoverCards 0.0.3
+//YTNoHoverCards
 @interface YTCollectionViewCell : UICollectionViewCell
 @end
 

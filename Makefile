@@ -1,4 +1,4 @@
-uYouPlus_INJECT_DYLIBS = uYou.dylib libcolorpicker.dylib iSponsorBlock.dylib YTUHD.dylib YouPiP.dylib
+uYouPlus_INJECT_DYLIBS = Tweaks/uYou.dylib Tweaks/libcolorpicker.dylib Tweaks/iSponsorBlock.dylib Tweaks/YTUHD.dylib Tweaks/YouPiP.dylib
 
 
 ARCHS = arm64
@@ -14,8 +14,8 @@ BUNDLE_ID = com.google.ios.youtube
 
 uYouPlus_FILES = uYouPlus.x
 uYouPlus_FRAMEWORKS = Alderis
-uYouPlus_IPA = /System/Volumes/Data/Volumes/Data_Macintosh/Sideloads/IPAs/YouTube_16.38.2.ipa
-### Important: edit the path to the decrypted YouTube IPA
+uYouPlus_IPA = /path/to/your/decrypted/YouTube/IPA
+### Important: edit the path to your decrypted YouTube IPA!!!
 
 
 include $(THEOS)/makefiles/common.mk

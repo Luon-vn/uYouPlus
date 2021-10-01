@@ -65,7 +65,7 @@
 
 # Download (IPA)
 
-- **uYouPlus (uYou+)+** requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab]().
+- **uYouPlus (uYou+)+** requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
 - Version info:
 

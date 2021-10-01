@@ -1,4 +1,4 @@
-uYouPlus_INJECT_DYLIBS = uYou.dylib iSponsorBlock.dylib libcolorpicker.dylib YTUHD.dylib YouPiP.dylib
+uYouPlus_INJECT_DYLIBS = uYou.dylib libcolorpicker.dylib iSponsorBlock.dylib YTUHD.dylib YouPiP.dylib
 
 
 ARCHS = arm64

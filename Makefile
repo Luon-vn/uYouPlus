@@ -14,7 +14,7 @@ BUNDLE_ID = com.google.ios.youtube
 
 uYouPlus_FILES = uYouPlus.x
 uYouPlus_FRAMEWORKS = Alderis
-uYouPlus_IPA = /System/Volumes/Data/Volumes/Data_Macintosh/Sideloads/IPAs/YouTube_16.38.2.ipa
+uYouPlus_IPA = /path/to/your/decrypted/YouTube/IPA
 ### Important: edit the path to your decrypted YouTube IPA!!! 
 
 

@@ -60,14 +60,20 @@
 
 4. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **LegacyPiP** is a workaround. Keep in mind that LegacyPiP also removes UHD quality and breaks YouTube Autoplay next. Use it at your own risk.
 
-5. **Not a bug**: the app won't be able to receive push notifications if you use a free developer account to sideload it. 
+5. **Not a bug**: 
+
+> - The app won't be able to receive push notifications if you use a free developer account to sideload it. 
+>
+> - appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
+>
+> - It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
 
 # Download (IPA)
 
-- **uYouPlus (uYou+)+** requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
+- **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
-- Version info:
+- Version info: _(last update: Oct 01)_
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :-------------: | :------------:| :------------: |

@@ -2,8 +2,8 @@
 #import <UIKit/UIKit.h>
 
 
-// YouRememberCaption
-//Source code: https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/
+// YouRememberCaption: https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/
+
 %hook YTColdConfig
 - (BOOL)respectDeviceCaptionSetting {
     return NO;
@@ -11,8 +11,7 @@
 %end
 
 
-// YTClassicVideoQuality
-// Source code: https://github.com/PoomSmart/YTClassicVideoQuality
+// YTClassicVideoQuality: https://github.com/PoomSmart/YTClassicVideoQuality
 
 @interface YTVideoQualitySwitchOriginalController : NSObject
 - (instancetype)initWithParentResponder:(id)responder;
@@ -27,8 +26,7 @@
 %end
 
 
-// YTNoCheckLocalNetwork
-// Source code: https://poomsmart.github.io/repo/depictions/ytnochecklocalnetwork.html
+// YTNoCheckLocalNetwork: https://poomsmart.github.io/repo/depictions/ytnochecklocalnetwork.html
 
 %hook YTHotConfig
 
@@ -37,8 +35,7 @@
 }
 %end
 
-// YTNoHoverCards
-// Source code: https://github.com/level3tjg/YTNoHoverCards
+// YTNoHoverCards: https://github.com/level3tjg/YTNoHoverCards
 
 @interface YTCollectionViewCell : UICollectionViewCell
 @end
@@ -86,8 +83,7 @@
 %end
 
 
-// YTSystemAppearance
-// Source code: https://poomsmart.github.io/repo/depictions/ytsystemappearance.html
+// YTSystemAppearance: https://poomsmart.github.io/repo/depictions/ytsystemappearance.html
 
 %hook YTColdConfig
 - (BOOL)shouldUseAppThemeSetting {

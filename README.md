@@ -50,9 +50,9 @@
 9. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings => General.
 
 
-# Known issues
+# Known issues 
 
-1. **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). **Make sure you take a look at it before reporting any bugs**!
+1. **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
 
 3. **iSponsorBlock**: the modified time doesn't show up in the seek bar.
 

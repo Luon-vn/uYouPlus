@@ -10,11 +10,11 @@
 * [Building (optional)](#building-optional)
    * [Method 1: azule (simple way)](#method-1-azule-simple-way)
    * [Method 2: theos-jailed (complex way)](#method-2-theos-jailed-complex-way)
-
+* [FAQ](#FAQ)
 
 # Credits
 
-- [MiRO92](https://twitter.com/miro92?s=21) for [Cercube](https://github.com/MiRO92/uYou-for-YouTube).
+- [MiRO92](https://twitter.com/miro92?s=21) for [uYou](https://github.com/MiRO92/uYou-for-YouTube).
 
 - [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
 
@@ -58,7 +58,7 @@
 
 3. **YTUHD**: Stuttering on 4K videos (sometimes).
 
-4. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **LegacyPiP** is a workaround. Keep in mind that LegacyPiP also removes UHD quality and breaks YouTube Autoplay next. Use it at your own risk.
+4. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **Legacy PiP** is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.
 
 5. **Not a bug**: 
 
@@ -73,11 +73,11 @@
 
 - **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
-- Version info: _(last update: Oct 01)_
+- Version info: _(last update: Oct 19)_
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :-------------: | :------------:| :------------: |
-| **YouTube** | 16.38.2 | ✖︎  |
+| **YouTube** | 16.41.2 | ✖︎  |
 | **uYou** | 2.0 | ✖︎ |
 | **iSponsorBlock** | 1.0-10 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
@@ -86,8 +86,8 @@
 | **YTNoCheckLocalNetwork** | 1.0.2 | [✔︎](https://poomsmart.github.io/repo/depictions/ytnochecklocalnetwork.html) |
 | **YTNoHoverCards** | 0.0.3 | [✔︎](https://github.com/level3tjg/YTNoHoverCards) |
 | **YTSystemAppearance** | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/ytsystemappearance.html) |
-| **YTUHD** | 1.2.4 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | 1.5.10 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YTUHD** | 1.2.5 | [✔︎](https://github.com/PoomSmart/YTUHD) |
+| **YouPiP** | 1.5.14 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
 
 # Building (optional)
@@ -128,3 +128,37 @@ git clone https://github.com/qnblackcat/uYouPlus.git
 ```
 make clean package
 ```
+
+
+# FAQ
+
+1. Why can't I see 2K/4K quality?
+
+> Make sure you enable **YTUHD** in _YouTube Settings => Video quality preferences_
+
+2. Why does it take so long to active PiP? 
+
+> Have you enabled native YouTube PiP in YouTube Settings => General? This is where **YouPiP** shines! 
+
+3. PiP stop playing when I turn off the screen?
+
+> iOS behave. Sorry! Feel free to submit a feedback to Apple ;))
+
+4. I don't like automative PiP!
+
+> Enable **Use PiP button** in _YouTube Settings => General_
+
+5. What is **Legacy PiP**? Should I enable it?
+
+> No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed up bug that happens on iOS 14.0 - 14.3. I mentioned about Legacy PiP in [Known issues](#known-issues)
+
+6. What is the difference between uYou normal download and uYou Local download?
+
+> MiRO explained it here ([Reddit](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/))
+
+7. Slow download speed?
+
+> Well, YouTube slows down the download speed for some reasons. Nothing we can do about it.
+
+8. uYou download is not working! (Error 200)
+> For appdb users: see [Known issues](#known-issues). For other signing services (ex: Esign...): there is no way to fix it, unfortunately.

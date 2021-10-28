@@ -69,7 +69,7 @@
 > - It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
 
-# Download (IPA)
+# Download (IPA) & Install
 
 - **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
@@ -132,33 +132,53 @@ make clean package
 
 # FAQ
 
-1. Why can't I see 2K/4K quality?
+**Q**: Wait a second, how do I install the IPA???
 
-> Make sure you enable **YTUHD** in _YouTube Settings => Video quality preferences_
+**A**: Use AltStore, Sideloadly, appdb, or whatever you prefer. If you don't know what are these tools, I suggest you learn about **_Sideloading_** on Goolge. 
+##
 
-2. Why does it take so long to active PiP? 
+Q: Does it require jailbroken?
 
-> Have you enabled native YouTube PiP in YouTube Settings => General? This is where **YouPiP** shines! 
+A: Absolutely NOT.
+##
 
-3. PiP stop playing when I turn off the screen?
+**Q**: Why can't I see 2K/4K quality?
 
-> iOS behave. Sorry! Feel free to submit a feedback to Apple ;))
+**A**: Make sure you enable **YTUHD** in _YouTube Settings => Video quality preferences_
+##
 
-4. I don't like automative PiP!
+**Q**: Why does it take so long to active PiP? 
 
-> Enable **Use PiP button** in _YouTube Settings => General_
+**A**: Have you enabled native YouTube PiP in YouTube Settings => General? This is where **YouPiP** shines! 
+##
 
-5. What is **Legacy PiP**? Should I enable it?
+**Q**: PiP stop playing when I turn off the screen?
 
-> No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed up bug that happens on iOS 14.0 - 14.3. I mentioned about Legacy PiP in [Known issues](#known-issues)
+**A**: iOS behave. Sorry! Feel free to submit a feedback to Apple ;))
+##
 
-6. What is the difference between uYou normal download and uYou Local download?
+**Q**: What is **Legacy PiP**? Should I enable it?
 
-> MiRO explained it here ([Reddit](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/))
+**A**: No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.3. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
+##
 
-7. Slow download speed?
+**Q**: Why can't I disable Background playback?!? Background playpack is disabled in uYou Settings!
 
-> Well, YouTube slows down the download speed for some reasons. Nothing we can do about it.
+**A**: FYI, **YouPiP** enables background playpack by default. Therefore, you can't completely disable background playback.
 
-8. uYou download is not working! (Error 200)
-> For appdb users: see [Known issues](#known-issues). For other signing services (ex: Esign...): there is no way to fix it, unfortunately.
+> In case you hate Background playback that much: Extract the IPA, go to `Payload => YouTube.app => Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
+##
+
+**Q**: What is the difference between uYou normal download and uYou Local download?
+
+**A**: MiRO explained it here ([Reddit](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/))
+##
+
+**Q**: Slow download speed?
+
+**A**: Well, YouTube slows down the download speed for some reasons. Nothing we can do about it.
+##
+
+**Q**: uYou download is not working! (Error 200)
+
+**A**: For appdb users: see [Known issues](#known-issues). For other signing services (ex: Esign...): there is no way to fix it, unfortunately.

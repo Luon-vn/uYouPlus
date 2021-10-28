@@ -71,12 +71,12 @@
 
 - **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
-- Version info: _(last update: Oct 19)_
+- Version info: _(last update: Oct 28)_
 
 | **Tweaks/App** | **Version** | **Open source** |
-| :-------------: | :------------:| :------------: |
-| **YouTube** | 16.41.2 | ✖︎  |
-| **uYou** | 2.0 | ✖︎ |
+| :------------: | :----------:| :-------------: |
+| **YouTube** | 16.42.3 | ✖︎  |
+| **uYou** | 2.1 | ✖︎ |
 | **iSponsorBlock** | 1.0-10 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
 | **YouRememberCaption** | 1.0.0 | [✔︎](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/) |

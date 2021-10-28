@@ -8,8 +8,6 @@
 * [Known issues](#known-issues)
 * [Download (IPA)](#download-ipa)
 * [Building (optional)](#building-optional)
-   * [Method 1: azule (simple way)](#method-1-azule-simple-way)
-   * [Method 2: theos-jailed (complex way)](#method-2-theos-jailed-complex-way)
 * [FAQ](#FAQ)
 
 # Credits

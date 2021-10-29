@@ -6,7 +6,7 @@
 * [Credits](#credits)
 * [Features](#features)
 * [Known issues](#known-issues)
-* [Download (IPA)](#download-(IPA)-&-install)
+* [Download (IPA)](#download-(IPA))
 * [Building (optional)](#building-optional)
 * [FAQ](#FAQ)
 
@@ -67,7 +67,7 @@
 > - It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
 
-# Download (IPA) & Install
+# Download (IPA)
 
 - **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 

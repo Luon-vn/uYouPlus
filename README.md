@@ -6,7 +6,7 @@
 * [Credits](#credits)
 * [Features](#features)
 * [Known issues](#known-issues)
-* [Download (IPA)](#download-(IPA))
+* [Download (IPA)](#download)
 * [Building (optional)](#building-optional)
 * [FAQ](#FAQ)
 

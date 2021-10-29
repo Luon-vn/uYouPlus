@@ -31,7 +31,7 @@
 
 1. **uYou:** uYou has a ton of features that I can't list them all. Visit his [here](https://miro92.com/repo/depictions/?p=com.miro.uyou) for more info!
 
-2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). This is the iOS version of the SponsorBlock extension.
+2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
 
 3. **YouRememberCaption**: make YouTube remember your video caption setting (if not already).
 

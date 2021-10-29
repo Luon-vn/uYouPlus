@@ -60,11 +60,11 @@
 
 5. **Not a bug**: 
 
-> - The app won't be able to receive push notifications if you use a free developer account to sideload it. 
->
-> - appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
->
-> - It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
+- The app won't be able to receive push notifications if you use a free developer account to sideload it. 
+
+- appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
+
+- It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
 
 # Download (IPA)

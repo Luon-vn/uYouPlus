@@ -60,16 +60,16 @@
 
 5. **Not a bug**: 
 
-- The app won't be able to receive push notifications if you use a free developer account to sideload it. 
+- The app won't be able to receive push notifications if you use a free developer account. 
 
 - appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
 
-- It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
+- It is impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
 
 # Download
 
-- **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 and later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
+- **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 or later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
 - For AltStore user: [Open in AltStore](https://tinyurl.com/9jades63). (Note: It will take a while to install because AltStore need to download the IPA).
 

@@ -29,7 +29,7 @@
 
 # Features
 
-1. **uYou:** uYou has a ton of features that I can't list them all. Visit his [here](https://miro92.com/repo/depictions/?p=com.miro.uyou) for more info!
+1. **uYou:** uYou has a ton of features that I can't list them all. Visit [here](https://miro92.com/repo/depictions/?p=com.miro.uyou) for more info!
 
 2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
 

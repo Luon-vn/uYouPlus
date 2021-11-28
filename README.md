@@ -52,7 +52,7 @@
 
 1. **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
 
-3. **iSponsorBlock**: the modified time doesn't show up in the seek bar.
+3. **iSponsorBlock**: there's still a [visual bug](https://i.imgur.com/kpkBGjG.jpg) in iSponsorBlock 1.0-11. It's not a big deal to be honest.
 
 3. **YTUHD**: Stuttering on 4K videos (sometimes).
 
@@ -71,15 +71,15 @@
 
 - **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 or later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
-- For AltStore user: [Open in AltStore](https://tinyurl.com/9jades63). (Note: It will take a while to install because AltStore need to download the IPA).
+- For AltStore user: [Open in AltStore](https://tinyurl.com/264u5a28). (Note: It will take a while to install because AltStore need to download the IPA.).
 
-- Version info: _(last update: Oct 28)_
+- Version info: _(last update: Nov 28)_
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :------------: | :----------:| :-------------: |
-| **YouTube** | 16.42.3 | ✖︎  |
+| **YouTube** | 16.45.4 | ✖︎  |
 | **uYou** | 2.1 | ✖︎ |
-| **iSponsorBlock** | 1.0-10 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
+| **iSponsorBlock** | 1.0-11 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
 | **YouRememberCaption** | 1.0.0 | [✔︎](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/) |
 | **YTClassicVideoQuality** | 1.0.1 | [✔︎](https://github.com/PoomSmart/YTClassicVideoQuality) |
@@ -87,7 +87,7 @@
 | **YTNoHoverCards** | 0.0.3 | [✔︎](https://github.com/level3tjg/YTNoHoverCards) |
 | **YTSystemAppearance** | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/ytsystemappearance.html) |
 | **YTUHD** | 1.2.5 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | 1.5.14 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YouPiP** | 1.5.15 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
 
 # Building (optional)

@@ -10,7 +10,7 @@ DISPLAY_NAME = YouTube
 BUNDLE_ID = com.google.ios.youtube
  
 uYouPlus_FILES = uYouPlus.x
-uYouPlus_IPA = /Volumes/Data_Macintosh/Sideloads/IPAs/YouTube_16.41.2.ipa
+uYouPlus_IPA = /Volumes/Data_Macintosh/Sideloads/IPAs/YouTube_16.45.2.ipa
 ### Important: edit the path to your decrypted YouTube IPA!!! 
 
 include $(THEOS)/makefiles/common.mk

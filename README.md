@@ -33,28 +33,31 @@
 
 2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
 
-3. **YouRememberCaption**: make YouTube remember your video caption setting (if not already).
+3. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings => General.
 
-4. **YTClassicVideoQuality:** since YouTube v16.xx, you need one more step to change the video quality. YTClassicVideoQuality brings back the old video quality selector, which is a lot better than the new one.
+4. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings => Video quality preferences.
 
-5. **YTNoCheckLocalNetwork**: block the Local Network permission popup.
+<details>
+  <summary>And more...!</summary>
+
+5. **YTClassicVideoQuality:** since YouTube v16.xx, you need one more step to change the video quality. YTClassicVideoQuality brings back the old video quality selector, which is a lot better than the new one.
 
 6. **YTNoHoverCards:** offer an option to enable/disable the annoying suggested videos show up at the end of the videos.
 
 7. **YTSystemAppearance**: sync the YouTube theme (dark/light) with the system theme.
 
-8. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings => Video quality preferences.
+8. **YTNoCheckLocalNetwork**: block the Local Network permission popup.
 
-9. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings => General.
-
+9. **YouRememberCaption**: make YouTube remember your video caption setting (if not already).
+</details>
 
 # Known issues 
 
 1. **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
 
-3. **iSponsorBlock**: there's still a [visual bug](https://i.imgur.com/kpkBGjG.jpg) in iSponsorBlock 1.0-11. It's not a big deal to be honest.
+2. **iSponsorBlock**: there's still a [visual bug](https://i.imgur.com/kpkBGjG.jpg) in iSponsorBlock 1.0-11. It's not a big deal to be honest.
 
-3. **YTUHD**: Stuttering on 4K videos (sometimes).
+3. **YTUHD**: Stuttering on 2K/4K videos. Follow [this thread](https://github.com/qnblackcat/uYouPlus/issues/6) for more info.
 
 4. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **Legacy PiP** is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.
 

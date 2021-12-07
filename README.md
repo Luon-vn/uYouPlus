@@ -55,11 +55,7 @@
 
 1. **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
 
-2. **iSponsorBlock**: there's still a [visual bug](https://i.imgur.com/kpkBGjG.jpg) in iSponsorBlock 1.0-11. It's not a big deal to be honest.
-
-3. **YTUHD**: Stuttering on 2K/4K videos. Follow [this thread](https://github.com/qnblackcat/uYouPlus/issues/6) for more info.
-
-4. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **Legacy PiP** is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.
+2. Issues that related to **uYouPlus** are [here](https://github.com/qnblackcat/uYouPlus/issues/)
 
 
 # Download

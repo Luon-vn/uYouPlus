@@ -11,7 +11,7 @@ assignees: ''
 - iOS/iPadOS version: 
 - Device model:
 - Sideload tool (Ex: AltStore, Sideloadly...)
-
+- Version of uYouPlus: 
 **Describe the bug**
 - 
 

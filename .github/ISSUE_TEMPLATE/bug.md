@@ -1,24 +1,24 @@
 ---
 name: Bug
 about: Create a report to help us improve
-title: "[BUG]"
-labels: ''
+title: "[Bug]"
+labels: bug
 assignees: ''
 
 ---
 
-**Device info**
+### Device info:
 - iOS/iPadOS version: 
 - Device model:
 - Sideload tool (Ex: AltStore, Sideloadly...)
 - Version of uYouPlus: 
 
-**Describe the bug**
+### Describe the bug:
 - 
 
-**How to Reproduce the bug**
+### How to reproduce the bug:
 _(Please attach videos or screenshots if possible)_
-
-
-**Additional context**
-Add any other context about the problem here.
+ 
+- 
+### Additional context: 
+_(Add any other context about the problem here)_

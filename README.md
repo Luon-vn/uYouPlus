@@ -16,6 +16,8 @@
 
 - [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
 
+- [Lillie](https://github.com/LillieWeeb001) for [YouTube Dislike Return](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)
+
 - [HASHBANG Productions](https://github.com/hbang) for [Alderis Color Picker](https://github.com/hbang/Alderis) - a dependency of iSponsorBlock.
 
 - [PoomSmart](https://twitter.com/poomsmart?s=21) - the developer of many tweaks used by uYouPlus, include: [YouRememberCaption](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/), [YTClassicVideoQuality](https://poomsmart.github.io/repo/depictions/ytclassicvideoquality.html), [YTNoCheckLocalNetwork](https://poomsmart.github.io/repo/depictions/ytnochecklocalnetwork.html), [YTSystemAppearance](https://poomsmart.github.io/repo/depictions/ytsystemappearance.html), [YTUHD](https://poomsmart.github.io/repo/depictions/ytuhd.html) and [YouPiP](https://poomsmart.github.io/repo/depictions/youpip.html).
@@ -33,9 +35,9 @@
 
 2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
 
-3. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings => General.
+3. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings - General.
 
-4. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings => Video quality preferences.
+4. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings - Video quality preferences.
 
 <details>
   <summary>And more...!</summary>
@@ -62,14 +64,19 @@
 
 - **uYouPlus** (or you can call it uYou+) requires iOS & iPadOS 13.0 or later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases).
 
-- For AltStore user: [Open in AltStore](https://tinyurl.com/264u5a28). (Note: It will take a while to install because AltStore need to download the IPA.).
+- For AltStore user: 
 
-- Version info: _(last update: Nov 28)_
+> - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
+> 
+> - [Open in AltStore](https://tinyurl.com/264u5a28). (Note: It will take a while to install because AltStore needs to download the IPA).
+
+- Version info: _(last update: Dec 31)_
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :------------: | :----------:| :-------------: |
-| **YouTube** | 16.45.4 | ✖︎  |
+| **YouTube** | 16.46.5 | ✖︎  |
 | **uYou** | 2.1 | ✖︎ |
+| **YouTube Dislike Return** | 1.3.0 | [✔︎](https://github.com/LillieWeeb001/Return-YouTube-Dislikes) |
 | **iSponsorBlock** | 1.0-11 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
 | **YouRememberCaption** | 1.0.0 | [✔︎](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/) |
@@ -78,7 +85,7 @@
 | **YTNoHoverCards** | 0.0.3 | [✔︎](https://github.com/level3tjg/YTNoHoverCards) |
 | **YTSystemAppearance** | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/ytsystemappearance.html) |
 | **YTUHD** | 1.2.5 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | 1.5.15 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YouPiP** | 1.6.3 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
 
 # Building (optional)

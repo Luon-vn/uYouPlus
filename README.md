@@ -55,9 +55,9 @@
 
 # Known issues 
 
-1. **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
+- **uYou**: all known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
 
-2. Issues that related to **uYouPlus** are [here](https://github.com/qnblackcat/uYouPlus/issues/)
+- Issues that related to **uYouPlus** are [here](https://github.com/qnblackcat/uYouPlus/issues/)
 
 
 # Download
@@ -68,9 +68,12 @@
 
 > - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
 > 
-> - [Open in AltStore](https://tinyurl.com/264u5a28). (Note: It will take a while to install because AltStore needs to download the IPA).
+> - [Open in AltStore (v16.46.5-2.1)](https://tinyurl.com/bdh6sshz) - It will take a while to install because AltStore needs to download the IPA.
 
 - Version info: _(last update: Dec 31)_
+
+<details>
+  <summary>  Expand</summary>
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :------------: | :----------:| :-------------: |
@@ -87,6 +90,7 @@
 | **YTUHD** | 1.2.5 | [✔︎](https://github.com/PoomSmart/YTUHD) |
 | **YouPiP** | 1.6.3 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
+</details>
 
 # Building (optional)
 

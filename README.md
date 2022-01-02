@@ -7,14 +7,16 @@
 * [Features](#features)
 * [Known issues](#known-issues)
 * [Download](#download)
+* [Support the developers!](#support-the-developers)
+* [FAQ](#faq)
 * [Building (optional)](#building-optional)
-* [FAQ](#FAQ)
+
 
 # Credits
 
 - [MiRO92](https://twitter.com/miro92?s=21) for [uYou](https://github.com/MiRO92/uYou-for-YouTube).
 
-- [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
+- [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - [Donate](https://github.com/Galactic-Dev)
 
 - [Lillie](https://github.com/LillieWeeb001) for [YouTube Dislike Return](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)
 
@@ -66,9 +68,9 @@
 
 - For AltStore user: 
 
-> - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
-> 
-> - [Open in AltStore (v16.46.5-2.1)](https://tinyurl.com/bdh6sshz) - It will take a while to install because AltStore needs to download the IPA.
+  - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
+
+  - [Open in AltStore (v16.46.5-2.1)](https://tinyurl.com/c2ac56un) - It will take a while to install because AltStore needs to download the IPA.
 
 - Version info: _(last update: Dec 31)_
 
@@ -92,10 +94,52 @@
 
 </details>
 
-# Building (optional)
+# Support the developers
 
-See [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building).
+<details>
+  <summary>MiRO92</summary>
+  
+- CashApp: https://cash.app/$MiRO92M
+ 
+- Bitcoin: 3LZRt4jxuFoRAPTrB3he4BUb5bzMD1t8HK
+  
+- Tether (USDT): TTNXwugTFBmarNBy8tAXvHvdNLXiuz9zPD
+  
+- Basic Attention Token (BAT): 0x1d3943dd33d2f36ef838d48071de07d469315153
+  
+- Ethereum (ETH): 0x1d3943dd33d2f36ef838d48071de07d469315153
+  
+- Monero (XMR): 89J4jtkE2EqQ6QvtsqLqUM7gBkseL7jqrYZ3wrpbYhM2E5EuQyXcDuxdsWHmgCsUnWZcVXQpRhvQEiB6SrSQW6AHU7ngxRY
+  
+- Dogcecoin (DOGE): 9xzrRxjn8BZmpr2ShyqKFAjvhujJ2D2iKD
+  </details>
+
+<details>
+  <summary>Poomsmart</summary>
+
+  
+- Paypal: https://poomsmart.github.io/
+
+</details>
+
+<details>
+  <summary>Galactic-dev</summary>
+  
+- Paypal: https://www.paypal.com/paypalme/DBrett684 
+
+- Venmo: https://venmo.com/u/DavidBrett
+</details>
+
+<details>
+  <summary>Lillie</summary>
+
+- Patreon: https://patreon.com/lillieweeb
+</details>
 
 # FAQ
 
 See [FAQ - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/FAQ).
+
+# Building (optional)
+
+See [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building).

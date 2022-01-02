@@ -16,7 +16,7 @@
 
 - [MiRO92](https://twitter.com/miro92?s=21) for [uYou](https://github.com/MiRO92/uYou-for-YouTube).
 
-- [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - [Donate](https://github.com/Galactic-Dev)
+- [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
 
 - [Lillie](https://github.com/LillieWeeb001) for [YouTube Dislike Return](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)
 

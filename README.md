@@ -18,7 +18,7 @@
 
 - [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
 
-- [Lillie](https://github.com/LillieWeeb001) for [YouTube Dislike Return](https://github.com/LillieWeeb001/Return-YouTube-Dislikes)
+- [Lillie](https://github.com/LillieWeeb001), [PoomSmart](https://twitter.com/poomsmart?s=21) and [kirb](https://twitter.com/hbkirb?s=21) for [YouTube Dislike Return](https://github.com/PoomSmart/Return-YouTube-Dislikes)
 
 - [HASHBANG Productions](https://github.com/hbang) for [Alderis Color Picker](https://github.com/hbang/Alderis) - a dependency of iSponsorBlock.
 
@@ -81,7 +81,7 @@
 | :------------: | :----------:| :-------------: |
 | **YouTube** | 16.46.5 | ✖︎  |
 | **uYou** | 2.1 | ✖︎ |
-| **YouTube Dislike Return** | 1.3.0 | [✔︎](https://github.com/LillieWeeb001/Return-YouTube-Dislikes) |
+| **YouTube Dislike Return** | 1.3.0 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
 | **iSponsorBlock** | 1.0-11 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
 | **YouRememberCaption** | 1.0.0 | [✔︎](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/) |

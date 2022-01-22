@@ -1,6 +1,14 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+// Workaround for https://github.com/MiRO92/uYou-for-YouTube/issues/12
+
+%hook YTAdsInnerTubeContextDecorator
+- (void)decorateContext:(id)arg1 {
+    %orig(nil);
+}
+%end
+
 
 // YouRememberCaption: https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/
 

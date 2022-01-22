@@ -70,18 +70,18 @@
 
   - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
 
-  - [Open in AltStore (v16.46.5-2.1)](https://tinyurl.com/c2ac56un) - It will take a while to install because AltStore needs to download the IPA.
+  - [Open in AltStore (v17.01.4-2.1)](https://tinyurl.com/39auw3xj) - It will take a while to install because AltStore needs to download the IPA.
 
-- Version info: _(last update: Dec 31)_
+- Version info: _(last update: Jan 22)_
 
 <details>
   <summary>  Expand</summary>
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :------------: | :----------:| :-------------: |
-| **YouTube** | 16.46.5 | ✖︎  |
+| **YouTube** | 17.01.4 | ✖︎  |
 | **uYou** | 2.1 | ✖︎ |
-| **YouTube Dislike Return** | 1.3.0 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
+| **YouTube Dislike Return** | 1.5.0 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
 | **iSponsorBlock** | 1.0-11 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
 | **YouRememberCaption** | 1.0.0 | [✔︎](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/) |
@@ -90,7 +90,7 @@
 | **YTNoHoverCards** | 0.0.3 | [✔︎](https://github.com/level3tjg/YTNoHoverCards) |
 | **YTSystemAppearance** | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/ytsystemappearance.html) |
 | **YTUHD** | 1.2.5 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | 1.6.3 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YouPiP** | 1.6.4 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
 </details>
 
@@ -101,23 +101,11 @@
   
 - CashApp: https://cash.app/$MiRO92M
  
-- Bitcoin: 3LZRt4jxuFoRAPTrB3he4BUb5bzMD1t8HK
-  
-- Tether (USDT): TTNXwugTFBmarNBy8tAXvHvdNLXiuz9zPD
-  
-- Basic Attention Token (BAT): 0x1d3943dd33d2f36ef838d48071de07d469315153
-  
-- Ethereum (ETH): 0x1d3943dd33d2f36ef838d48071de07d469315153
-  
-- Monero (XMR): 89J4jtkE2EqQ6QvtsqLqUM7gBkseL7jqrYZ3wrpbYhM2E5EuQyXcDuxdsWHmgCsUnWZcVXQpRhvQEiB6SrSQW6AHU7ngxRY
-  
-- Dogcecoin (DOGE): 9xzrRxjn8BZmpr2ShyqKFAjvhujJ2D2iKD
-  </details>
+- Other payment methods are available in uYou's settings.
 
 <details>
   <summary>Poomsmart</summary>
 
-  
 - Paypal: https://poomsmart.github.io/
 
 </details>

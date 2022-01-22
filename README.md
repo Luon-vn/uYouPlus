@@ -102,8 +102,9 @@
 - CashApp: https://cash.app/$MiRO92M
  
 - Other payment methods are available in uYou's settings.
-
 </details>
+
+<details>
   <summary>Poomsmart</summary>
 
 - Paypal: https://poomsmart.github.io/

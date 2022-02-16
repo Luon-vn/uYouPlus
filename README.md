@@ -70,18 +70,18 @@
 
   - My official AtlStore repo: https://qnblackcat.github.io/AltStore/
 
-  - [Open in AltStore (v17.04.3-2.1)](https://tinyurl.com/mr39s9hf) - It will take a while to install because AltStore needs to download the IPA.
+  - [Open in AltStore (v17.06.3-2.1)](https://tinyurl.com/4aprkhc5) - It will take a while to install because AltStore needs to download the IPA.
 
-- Version info: _(last update: Feb 07)_
+- Version info: _(last update: Feb 16)_
 
 <details>
   <summary>  Expand</summary>
 
 | **Tweaks/App** | **Version** | **Open source** |
 | :------------: | :----------:| :-------------: |
-| **YouTube** | 17.04.3 | ✖︎  |
+| **YouTube** | 17.06.3 | ✖︎  |
 | **uYou** | 2.1 | ✖︎ |
-| **Return YouTube Dislike** | 1.6.2 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
+| **Return YouTube Dislike** | 1.6.3 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
 | **iSponsorBlock** | 1.0-13 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **Alderis Color Picker** | 1.1.2| [✔︎](https://github.com/hbang/Alderis) |
 | **YouRememberCaption** | 1.0.0 | [✔︎](https://www.ios-repo-updates.com/repository/poomsmart/package/com.ps.youremembercaption/) |
@@ -89,7 +89,7 @@
 | **YTNoCheckLocalNetwork** | 1.0.2 | [✔︎](https://poomsmart.github.io/repo/depictions/ytnochecklocalnetwork.html) |
 | **YTNoHoverCards** | 0.0.3 | [✔︎](https://github.com/level3tjg/YTNoHoverCards) |
 | **YTSystemAppearance** | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/ytsystemappearance.html) |
-| **YTUHD** | 1.2.5 | [✔︎](https://github.com/PoomSmart/YTUHD) |
+| **YTUHD** | 1.2.6 | [✔︎](https://github.com/PoomSmart/YTUHD) |
 | **YouPiP** | 1.6.6 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
 </details>

@@ -20,7 +20,7 @@ SUBPROJECTS += Tweaks/Alderis Tweaks/iSponsorBlock Tweaks/YTUHD Tweaks/YouPiP Tw
 include $(THEOS_MAKE_PATH)/aggregate.mk
 
 before-package::
-	@tput setaf 4 && echo -e "==> \033[1mMoving tweak's bundle to ./Resources/..."
+	@tput setaf 4 && echo -e "==> \033[1mMoving tweak's bundle to Resources/..."
 	@mkdir -p Resources/Frameworks/Alderis.framework && find .theos/obj/install/Library/Frameworks/Alderis.framework -maxdepth 1 -type f -exec cp {} Resources/Frameworks/Alderis.framework/ \;
 	@cp -R Tweaks/YouPiP/layout/Library/Application\ Support/YouPiP.bundle Resources/
 	@cp -R Tweaks/iSponsorBlock/layout/Library/Application\ Support/iSponsorBlock.bundle Resources/

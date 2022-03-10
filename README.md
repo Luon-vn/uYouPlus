@@ -7,6 +7,7 @@
 * [Features](#features)
 * [Known issues](#known-issues)
 * [Download](#download)
+* [Installation](#installation)
 * [Support the developers!](#support-the-developers)
 * [FAQ](#faq)
 * [Building (optional)](#building-optional)
@@ -93,6 +94,9 @@
 | **YouPiP** | 1.6.8 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 
 </details>
+
+# Installation
+See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation)
 
 # Support the developers
 
